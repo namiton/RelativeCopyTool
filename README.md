@@ -15,15 +15,15 @@ The file structure is as follows
 　　　　│　　　　　　└── SampleFile.txt  
 　　　　└── CopyTarget
 
-ルートフォルダを【A】  
-コピーするファイルを【SampleFile.txt】  
-コピー先を【CopyTarget】として実行します。  
+ルートフォルダを`A`  
+コピーするファイルを`SampleFile.txt`  
+コピー先を`CopyTarget`として実行します。  
 
 すると以下のようになります。  
 
-Root folder is 【A】.  
-Copy file as 【SampleFile.txt】.  
-Copy the file to be copied to 【CopyTarget】.  
+Root folder is `A`.  
+Copy file as `SampleFile.txt`.  
+Copy the file to be copied to `CopyTarget`.  
 The following will then be shown.  
 
 
